@@ -1,2 +1,2 @@
 # Random
-this is a random project
+actually .. i'll just write a simple fortran code
