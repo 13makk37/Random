@@ -8,7 +8,7 @@ read *, b
 print *, "b=", b
  a + b = c
  IF (c>0) then 
- print *, "hello world !"
+ print *, "hello world!"
  else (c<0) then
  print *, "hello moon!"
  else (c==0) 
