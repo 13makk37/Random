@@ -1,6 +1,5 @@
 Program hello
-Real :: a,b
-integer :: c
+Real :: a, b, c
 print *, "welcome ! please type in the value of a"
 read *, a
 print *, "a=", a
